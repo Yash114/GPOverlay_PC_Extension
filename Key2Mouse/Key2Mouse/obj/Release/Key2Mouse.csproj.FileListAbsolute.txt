@@ -1,0 +1,14 @@
+C:\Users\redsc\source\repos\Key2Mouse\Key2Mouse\bin\Release\Key2Mouse.exe.config
+C:\Users\redsc\source\repos\Key2Mouse\Key2Mouse\bin\Release\Key2Mouse.exe.manifest
+C:\Users\redsc\source\repos\Key2Mouse\Key2Mouse\bin\Release\Key2Mouse.application
+C:\Users\redsc\source\repos\Key2Mouse\Key2Mouse\bin\Release\Key2Mouse.exe
+C:\Users\redsc\source\repos\Key2Mouse\Key2Mouse\bin\Release\Key2Mouse.pdb
+C:\Users\redsc\source\repos\Key2Mouse\Key2Mouse\obj\Release\Key2Mouse.Form1.resources
+C:\Users\redsc\source\repos\Key2Mouse\Key2Mouse\obj\Release\Key2Mouse.Properties.Resources.resources
+C:\Users\redsc\source\repos\Key2Mouse\Key2Mouse\obj\Release\Key2Mouse.csproj.GenerateResource.cache
+C:\Users\redsc\source\repos\Key2Mouse\Key2Mouse\obj\Release\Key2Mouse.csproj.CoreCompileInputs.cache
+C:\Users\redsc\source\repos\Key2Mouse\Key2Mouse\obj\Release\Key2Mouse.exe.manifest
+C:\Users\redsc\source\repos\Key2Mouse\Key2Mouse\obj\Release\Key2Mouse.application
+C:\Users\redsc\source\repos\Key2Mouse\Key2Mouse\obj\Release\Key2Mouse.exe
+C:\Users\redsc\source\repos\Key2Mouse\Key2Mouse\obj\Release\Key2Mouse.pdb
+C:\Users\redsc\source\repos\Key2Mouse\Key2Mouse\obj\Release\Key2Mouse.csprojAssemblyReference.cache
